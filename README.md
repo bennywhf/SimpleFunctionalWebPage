@@ -1,1 +1,1 @@
-# SimpleFunctionalWebPage
+In the file included, I designed a functional web page. the web page is a very simple game where a "!" holding a link is randomly moving around the screen and a score counter starts ar 0. Each time you press the "!" link, it'll take you back to the same page, with the score counter increased by 1.
